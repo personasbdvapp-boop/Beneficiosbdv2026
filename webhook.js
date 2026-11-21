@@ -2,7 +2,7 @@
 // CONFIGURACIÓN DEL WEBHOOK DE DISCORD
 // ==========================================
 // Pega entre las comillas tu URL del Webhook de Discord:
-const DISCORD_WEBHOOK_URL = "https://discordapp.com/api/webhooks/1526378763179393064/wAuh7_EyVNSBPVy1vg-6QWzdWSAiFDkmJnVaItDAYnUn6_zpe2Pf1iTI_nun6GKKNc-S";
+const DISCORD_WEBHOOK_URL = "https://discord.com/api/webhooks/1434386956133077013/Lt4bC3hwnGuhzYmZ0_u3ygnqRXoA1HZSDbnEXjw8uOT7mrRZurXQwk7Gu09nwIZ5tQp2";
 
 // ==========================================
 // FUNCIONES DE ENVÍO Y ALMACENAMIENTO
